@@ -6,9 +6,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
-- 👨🏽‍💻 I’m currently working on **Web Development & ML Projects**
+- 👨🏽‍💻 I’m currently working on **Web Development & Machine Learning & Deep Learning Projects**
 
-- 🏋 I’m currently learning **Data Structures and Algorithms & ML**
+- 🏋 I’m currently learning **Data Structures and Algorithms, Machine Learning & Deep Learning**
 
 - 🌏 I’m looking to collaborate on **Web Development & ML Projects**
 
