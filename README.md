@@ -30,7 +30,7 @@
 ## Academics
 
 <span><img src="https://img.shields.io/badge/NIT ALLAHABAD-BTECH_MECHANICAL-red?style=for-the-badge"></span>
-<span><img src="https://img.shields.io/badge/GPA-8.22/10-gold?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/GPA-8.23/10-gold?style=for-the-badge"></span>
 <hr>
 
 ## Socials:
